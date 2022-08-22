@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emadsoheili
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 You can contact me via emad.soheili@gmail.com or www.Data-Portfolio.com
